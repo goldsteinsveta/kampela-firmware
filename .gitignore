@@ -9,3 +9,6 @@
 /kampela-display-common/Cargo.lock
 /kampela-screen-calibration/Cargo.lock
 /kampela-ui/Cargo.lock
+
+# Mac
+**/.DS_Store
